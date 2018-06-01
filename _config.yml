@@ -1,0 +1,19 @@
+# Site settings
+title: Missra Kit
+description: Missra - Web App Kit
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://missra-kit.github.io" # the base hostname & protocol for your site e.g. http://missra.com
+
+# User settings
+username: Missra
+user_description: Full-time front-end Engineer
+user_title: Web App Kit
+email: missra-kit@outlook.com
+github_username:  missra
+twitter_username: missra
+gplus_username:  missra
+
+# Google-analytics
+google-analytics:
+
+exclude: ['package.json', 'src' , 'node_modules']
